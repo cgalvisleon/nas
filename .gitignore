@@ -1,3 +1,7 @@
-data
-logs
-config
+# Folders
+dbdata
+nats
+redis
+
+# Files
+.env
